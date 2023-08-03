@@ -1,2 +1,4 @@
 @ahlmy
-python, c#, js
+Python
+Javascript / Css / React / Next
+C, C++
